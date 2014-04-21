@@ -31,7 +31,7 @@
   <remove-project name="CyanogenMod/android_hardware_ti_wpan" />
   <project name="LegacyXperia/android_hardware_ti_wpan" path="hardware/ti/wpan" />
 
-  <remove-project name="CyanogenMod/android_frameworks_av" />
+  <remove-project name="AOSPA-legacy/android_frameworks_av" />
   <project name="LegacyXperia/android_frameworks_av" path="frameworks/av" />
 
   <!-- CyanogenMod projects -->
