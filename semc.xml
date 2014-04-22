@@ -6,15 +6,7 @@
   <project name="LegacyXperia/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="cm-11.0" remote="cm" />
 
   <project name="LegacyXperia/android_device_semc_mogami-common" path="device/semc/mogami-common" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_anzu" path="device/semc/anzu" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_coconut" path="device/semc/coconut" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_haida" path="device/semc/haida" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_hallon" path="device/semc/hallon" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_iyokan" path="device/semc/iyokan" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_mango" path="device/semc/mango" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_satsuma" path="device/semc/satsuma" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_smultron" path="device/semc/smultron" revision="cm-11.0" remote="cm" />
-  <project name="LegacyXperia/android_device_semc_urushi" path="device/semc/urushi" revision="cm-11.0" remote="cm" />
+  <project name="CRXTeam/android_device_semc_coconut" path="device/semc/coconut" revision="cm-11.0" remote="cm" />
 
   <project name="LegacyXperia/android_kernel_semc_msm7x30" path="kernel/semc/msm7x30" revision="cm-11.0" remote="cm" />
 
