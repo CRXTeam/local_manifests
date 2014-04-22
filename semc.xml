@@ -3,7 +3,7 @@
   <project name="LegacyXperia/local_manifests" path="vendor/extra" revision="cm-11.0" remote="cm" />
 
   <!-- LegacyXperia projects -->
-  <project name="LegacyXperia/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="cm-11.0" remote="cm" />
+  <project name="CRXTeam/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="cm-11.0" remote="cm" />
 
   <project name="LegacyXperia/android_device_semc_mogami-common" path="device/semc/mogami-common" revision="cm-11.0" remote="cm" />
   <project name="CRXTeam/android_device_semc_coconut" path="device/semc/coconut" revision="cm-11.0" remote="cm" />
